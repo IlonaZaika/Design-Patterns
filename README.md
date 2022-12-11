@@ -5,14 +5,14 @@ The solution contains educational projects to demonstrate the use of popular des
 All the code samples implemented using C#.
 
 ## Acknowledgements
-Creational Patterns
+#### Creational Patterns
  - [Factory](###)
  - [Abstract Factory](###)
  - [Builder](###)
  - [Prototype](###)
  - [Singleton](###)
  - [Builder](###)
-Structural Patterns
+#### Structural Patterns
  - [Adapter](###)
  - [Facade](###)
  - [Decorator](###)
@@ -20,7 +20,7 @@ Structural Patterns
  - [Proxy](###)
  - [Flyweight](###)
  - [Bridge](###)
-Behavioral Patterns
+#### Behavioral Patterns
  - [Chain of Responsibility](###)
  - [Command](###)
  - [Observer](###)
